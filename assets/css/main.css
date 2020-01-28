@@ -1945,6 +1945,24 @@ input, select, textarea {
 					background: #7fb7d2;
 				}
 
+			.icon.circle.fa-linkedin {
+				background: #70aecd;
+				color: #fff;
+			}
+	
+				.icon.circle.fa-linkedin:hover {
+					background: #7fb7d2;
+				}	
+
+			.icon.circle.fa-envelope {
+				background: #a74229;
+				color: #fff;
+			}
+		
+				.icon.circle.fa-envelope:hover {
+					background: #a74229;
+				}		
+
 			.icon.circle.fa-facebook-f {
 				background: #7490c3;
 				color: #fff;
