@@ -136,6 +136,8 @@ input, select, textarea {
 		text-transform: uppercase;
 	}
 
+
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
@@ -2104,6 +2106,12 @@ input, select, textarea {
 				padding: 0;
 			}
 
+		ul.buttons.stocked li {
+			display: block;
+			padding: 1.5em 0 0 0;
+			margin-bottom: 70px;
+		}
+
 		ul.buttons.stacked li {
 			display: block;
 			padding: 1.5em 0 0 0;
@@ -2547,7 +2555,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/SiteBanner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/background2.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
